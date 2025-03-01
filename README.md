@@ -1,5 +1,7 @@
 # Haskell Hello World
 
+main learning resource https://github.com/IHaskell/learn-you-a-haskell-notebook
+
 A simple "Hello, World!" program written in Haskell.
 
 ## Project Description

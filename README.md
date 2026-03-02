@@ -1,50 +1,12 @@
-# Haskell Hello World
+<div align="center">
 
-main learning resource https://github.com/IHaskell/learn-you-a-haskell-notebook
+# Haskell Playground
 
-A simple "Hello, World!" program written in Haskell.
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 
-## Project Description
+</div>
 
-This project demonstrates a basic Haskell program that prints "Hello, World!" to the console.
+---
 
-## Code Explanation
-
-The program consists of a single file `hello.hs` with the following code:
-
-```haskell
-main :: IO ()
-main = putStrLn "Hello, World!"
-```
-
-
-- `main :: IO ()` - This is the type signature declaring that `main` is an IO action that returns unit `()`
-- `main = putStrLn "Hello, World!"` - This defines the main function to print "Hello, World!" to the console
-
-## How to Run
-
-### Prerequisites
-
-- Install the Haskell Platform or GHC (Glasgow Haskell Compiler)
-
-### Compilation and Execution
-
-You can run the program in several ways:
-
-1. **Compile and run:**
-   ```bash
-   ghc hello.hs
-   ./hello  # On Unix-like systems
-   hello.exe  # On Windows
-   ```
-
-2. **Run with GHCi (Haskell interpreter):**
-   ```bash
-   ghci hello.hs
-   *Main> main
-   ```
-
-3. **Run directly with runghc:**
-   ```bash
-   runghc hello.hs
-   ```# haskell-playground
+A Haskell learning playground with experiments and exercises.

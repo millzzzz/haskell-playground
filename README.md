@@ -1,12 +1,19 @@
-<div align="center">
+# haskell-playground
 
-# Haskell Playground
+just a playground in haskell to learn functional programming
 
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 
-</div>
+## About
+
+📚 **Learning / Exploration** built with Haskell.
+
+<!-- 
+  Add a demo GIF here:
+  ![Demo](demo.gif)
+-->
+
 
 ---
 
-A Haskell learning playground with experiments and exercises.
+*Built by [@stussysenik](https://github.com/stussysenik)*
